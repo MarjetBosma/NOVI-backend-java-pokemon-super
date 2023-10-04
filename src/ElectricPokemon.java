@@ -22,4 +22,7 @@ public class ElectricPokemon extends Pokemon {
     public void sleep() {
         System.out.println(getName() + " sleeps 2 hrs a day");
     }
+
 }
+
+

@@ -26,6 +26,10 @@ public class WaterPokemon extends Pokemon {
         System.out.println(getName() + " is strong against Fire-type");
     }
 
+    public void rainDance() {
+        System.out.println(getName() + " does a Raindance");
+    }
+
     public String getSecondType() {
         return secondType;
     }
